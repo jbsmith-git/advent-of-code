@@ -4,3 +4,6 @@
 venv/
 __pycache__/
 *.toml
+bin/
+obj/
+*.csproj
